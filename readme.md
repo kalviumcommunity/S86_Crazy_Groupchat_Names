@@ -19,6 +19,6 @@ Favorites: Generated names can be saved by users for easy future access.
 Tech Stack:
 Frontend Technologies: HTML, CSS (Tailwind CSS), and JavaScript are used to build the app’s user interface and functionality.
 No Backend: The entire app operates without a backend, as all name generation and user interactions occur directly in the browser, ensuring a fast and lightweight experience.
-Conclusion:
 
+Conclusion:
 Crazy Group Chat Names is a fun and engaging app that offers a simple solution for anyone looking to name their group chats. By leveraging frontend technologies, it provides a seamless and interactive experience for users, all without the need for a backend infrastructure. This project is perfect for anyone seeking a quick and creative way to generate memorable names for their group chats.
