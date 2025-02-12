@@ -1,0 +1,15 @@
+{
+  "name": "s86_crazy_groupchat_names",
+  "version": "1.0.0",
+  "description": "This project is a fun tool that helps users come up with funny, cool, or crazy names for their group chats. Users can enter a few words, and the app will suggest group names based on those words. They can also randomly generate names or choose from categories like \"funny,\" \"cool\" and \"crazy.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
