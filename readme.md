@@ -22,3 +22,25 @@ No Backend: The entire app operates without a backend, as all name generation an
 
 Conclusion:
 Crazy Group Chat Names is a fun and engaging app that offers a simple solution for anyone looking to name their group chats. By leveraging frontend technologies, it provides a seamless and interactive experience for users, all without the need for a backend infrastructure. This project is perfect for anyone seeking a quick and creative way to generate memorable names for their group chats.
+
+
+
+
+
+
+
+
+
+Deployed App Link:
+[https://s86-crazy-groupchat-names.onrender.com]
+
+Deployment Process
+Login: Logged into Render.com using my Kalvium Community Google account.
+Deploy: Navigated to the Deploy section, selected the Public repository option, and imported the project files.
+Automatic Setup: Render automatically detected the necessary environment settings and deployed the app. I just clicked Deploy, and Render handled the rest.
+
+
+
+
+
+
