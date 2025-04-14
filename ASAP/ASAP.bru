@@ -4,8 +4,16 @@ meta {
   seq: 2
 }
 
-get {
-  url: http://localhost:3000
-  body: none
+post {
+  url: http://localhost:3000/api/items
+  body: json
   auth: inherit
+}
+
+body:json {
+  {
+    "name": "Pizza Party Squad",
+    "description": "Group for our late night pizza talks"
+  }
+  
 }
