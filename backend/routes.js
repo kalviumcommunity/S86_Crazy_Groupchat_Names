@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Item = require('./models/Item'); // adjust path as needed
+const Item = require('../models/Item'); // adjust path as needed
 
 // Create a new item (POST /api/items)
 router.post('/items', async (req, res) => {

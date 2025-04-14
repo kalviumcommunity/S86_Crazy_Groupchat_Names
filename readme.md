@@ -49,7 +49,7 @@ Random Name Generation: The app offers a button to generate a random group name 
 Favorites: Generated names can be saved by users for easy future access.
 
 Tech Stack:
-Frontend Technologies: HTML, CSS (Tailwind CSS), and JavaScript are used to build the app’s user interface and functionality.
+Frontend Technologies: HTML, CSS , and JavaScript are used to build the app’s user interface and functionality.
 No Backend: The entire app operates without a backend, as all name generation and user interactions occur directly in the browser, ensuring a fast and lightweight experience.
 
 Conclusion:
