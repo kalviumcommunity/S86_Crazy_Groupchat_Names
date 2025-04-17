@@ -22,7 +22,7 @@ mongoose.connect(process.env.MongoDB_URI, {})
   .then(() => console.log('MongoDB is connected'))
   .catch((err) => console.error('MongoDB connection failed:', err));
 
-// Basic test route
+
 app.get('/ping', (req, res) => {
   res.send('pong');
 });
